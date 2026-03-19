@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Gerenciador de Usuários</title>
+    
+</head>
+<body>
+    <header class="header">
+        <h1>Gerenciador de Usuários</h1>
+    </header>
+
+    <main class="conteiner">
+        <section class="search">
+            <input type="text" id="sendUser">
+            <button type="submit" id="submitUser" onclick="addUsers()">Enviar</button>
+        </section>
+        
+        <section class="results">
+            <ul class="users" id="users-list"></ul>
+        </section>
+    </main>
+    
+    <footer>&copy; 2026 Matheus Geraldi</footer>
+
+    <script src="index.js"></script>
+</body>
+</html>
