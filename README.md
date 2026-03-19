@@ -112,3 +112,4 @@ A proposta simula um pequeno sistema de gerenciamento, semelhante a interfaces r
 ---
 
 Desenvolvido por **Matheus Geraldi** 🚀
+
