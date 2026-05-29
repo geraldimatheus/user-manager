@@ -43,13 +43,14 @@ A proposta simula um pequeno sistema de gerenciamento, semelhante a interfaces r
 ---
 
 ## 📁 Estrutura do Projeto
-
+```bash
 /user-manager
 │
 ├── index.html
 ├── style.css
 ├── index.js
 └── README.md
+```
 
 ---
 
