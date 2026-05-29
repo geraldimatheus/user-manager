@@ -43,6 +43,7 @@ A proposta simula um pequeno sistema de gerenciamento, semelhante a interfaces r
 ---
 
 ## 📁 Estrutura do Projeto
+
 /user-manager
 │
 ├── index.html
